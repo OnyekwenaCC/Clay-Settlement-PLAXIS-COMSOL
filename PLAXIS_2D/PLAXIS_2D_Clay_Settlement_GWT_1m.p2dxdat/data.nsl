@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<NodeStressPointList>
+  <NodeStressPointNode>
+    <NodeID>9772</NodeID>
+    <StructureType>1</StructureType>
+    <StructureNr>-1</StructureNr>
+    <Identification>Node 9772</Identification>
+    <Name>CN_1</Name>
+    <GUID>{E0403BE4-5507-4BA4-B847-8F152B9A7278}</GUID>
+    <Origin>0</Origin>
+  </NodeStressPointNode>
+  <NodeStressPointNode>
+    <NodeID>9773</NodeID>
+    <StructureType>1</StructureType>
+    <StructureNr>-1</StructureNr>
+    <Identification>Node 9773</Identification>
+    <Name>CN_2</Name>
+    <GUID>{9597FEA9-68AC-45D7-B2AF-4A7C4B8E7EE2}</GUID>
+    <Origin>0</Origin>
+  </NodeStressPointNode>
+</NodeStressPointList>

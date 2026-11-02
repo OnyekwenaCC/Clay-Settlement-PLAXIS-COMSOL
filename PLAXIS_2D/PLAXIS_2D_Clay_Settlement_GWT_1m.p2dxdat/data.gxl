@@ -1,0 +1,190 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<GraphList>
+  <Graph>
+    <Version>2025.1.3.5</Version>
+    <Settings>
+      <XLin>true</XLin>
+      <YLin>true</YLin>
+      <XAutoScale>true</XAutoScale>
+      <YAutoScale>true</YAutoScale>
+      <XMin>0</XMin>
+      <XMax>50</XMax>
+      <YMin>0</YMin>
+      <YMax>0</YMax>
+      <HorGrid>true</HorGrid>
+      <VerGrid>true</VerGrid>
+      <Orthonormal>false</Orthonormal>
+      <Exchange>false</Exchange>
+      <XFlip>false</XFlip>
+      <YFlip>false</YFlip>
+      <GridStyle>2</GridStyle>
+      <GridCol>0</GridCol>
+      <NumCurves>1</NumCurves>
+      <XAxis>0</XAxis>
+      <YAxis>0</YAxis>
+      <SpecType>0</SpecType>
+      <Is3D>false</Is3D>
+      <ActiveCurve>1</ActiveCurve>
+      <LegendWidth>0</LegendWidth>
+      <ChartNo>0</ChartNo>
+      <GeneralInfoFlags.Model>0</GeneralInfoFlags.Model>
+      <GeneralInfoFlags.Elements>0</GeneralInfoFlags.Elements>
+      <GeneralInfoFlags.XAccel>0</GeneralInfoFlags.XAccel>
+      <GeneralInfoFlags.YAccel>0</GeneralInfoFlags.YAccel>
+      <GeneralInfoFlags.DynLoadSystem>0</GeneralInfoFlags.DynLoadSystem>
+      <GeneralInfoFlags.unLength>0</GeneralInfoFlags.unLength>
+      <GeneralInfoFlags.unForce>0</GeneralInfoFlags.unForce>
+      <GeneralInfoFlags.unTime>0</GeneralInfoFlags.unTime>
+      <ChartTitle>Chart 1</ChartTitle>
+      <XLabel>ΣMstage []</XLabel>
+      <YLabel>u_y# [m]</YLabel>
+      <XUnit/>
+      <YUnit/>
+      <GeneralInfoStrings.User/>
+      <GeneralInfoStrings.Company/>
+      <GeneralInfoStrings.Title/>
+      <GeneralInfoStrings.Comments/>
+      <GeneralInfoStrings.UnitL/>
+      <GeneralInfoStrings.UnitF/>
+      <GeneralInfoStrings.UnitT/>
+      <GeneralInfoStrings.UnitTemp/>
+      <GeneralInfoStrings.UnitMass/>
+      <GeneralInfoStrings.UnitEnergy/>
+      <GeneralInfoStrings.UnitPower/>
+      <ShowLegend>true</ShowLegend>
+      <ShowLegendInChart>false</ShowLegendInChart>
+      <LegendPosX>0</LegendPosX>
+      <LegendPosY>0</LegendPosY>
+      <PSAEndTime>10</PSAEndTime>
+      <GraphType>0</GraphType>
+      <IsAriasCurveInPercentage>false</IsAriasCurveInPercentage>
+    </Settings>
+    <Curves>
+      <Curve>
+        <Settings>
+          <CurveNo>1</CurveNo>
+          <NumSteps>50</NumSteps>
+          <InvX>false</InvX>
+          <InvY>false</InvY>
+          <Visible>true</Visible>
+          <AutoSpectrum>true</AutoSpectrum>
+          <PtsPerSeg>0</PtsPerSeg>
+          <FreqStep>-1</FreqStep>
+          <NumActiveSteps>50</NumActiveSteps>
+          <ProjectPath/>
+          <CurveTitle>Node 9772 *</CurveTitle>
+          <Zeta>.05</Zeta>
+          <IsMinimaShown>true</IsMinimaShown>
+          <IsMaximaShown>true</IsMaximaShown>
+          <SpectrumTimeAxis>0</SpectrumTimeAxis>
+        </Settings>
+        <Phases>
+          <Phase>
+            <PhaseNr>0</PhaseNr>
+            <ParentPhaseNr>-1</ParentPhaseNr>
+            <PhaseTimeStepInSeconds>0</PhaseTimeStepInSeconds>
+            <Enabled>true</Enabled>
+            <IsDyn>false</IsDyn>
+            <Name>Initial phase [InitialPhase]</Name>
+          </Phase>
+          <Phase>
+            <PhaseNr>1</PhaseNr>
+            <ParentPhaseNr>0</ParentPhaseNr>
+            <PhaseTimeStepInSeconds>0</PhaseTimeStepInSeconds>
+            <Enabled>true</Enabled>
+            <IsDyn>false</IsDyn>
+            <Name>Phase_1 [Phase_1]</Name>
+          </Phase>
+        </Phases>
+        <DataPoints>
+          <Point Prev="0" Phase="0" Step="0" X="0"/>
+          <Point Prev="1" Phase="1" Step="1" X="0" Y="0"/>
+          <Point Prev="1" Phase="1" Step="1" X="9.13389E-4" Y="-5.46471E-5"/>
+          <Point Prev="2" Phase="1" Step="2" X="2.3561E-3" Y="-1.64111E-4"/>
+          <Point Prev="3" Phase="1" Step="3" X="5.26891E-3" Y="-3.83167E-4"/>
+          <Point Prev="4" Phase="1" Step="4" X="8.23976E-3" Y="-6.0268E-4"/>
+          <Point Prev="5" Phase="1" Step="5" X=".0112342" Y="-8.2326E-4"/>
+          <Point Prev="6" Phase="1" Step="6" X=".0127787" Y="-9.3426E-4"/>
+          <Point Prev="7" Phase="1" Step="7" X=".0157019" Y="-1.15689E-3"/>
+          <Point Prev="8" Phase="1" Step="8" X=".0172995" Y="-1.26848E-3"/>
+          <Point Prev="9" Phase="1" Step="9" X=".0202649" Y="-1.49197E-3"/>
+          <Point Prev="10" Phase="1" Step="10" X=".0232886" Y="-1.71546E-3"/>
+          <Point Prev="11" Phase="1" Step="11" X=".0248638" Y="-1.82741E-3"/>
+          <Point Prev="12" Phase="1" Step="12" X=".027783" Y="-2.05121E-3"/>
+          <Point Prev="13" Phase="1" Step="13" X=".0293895" Y="-2.16329E-3"/>
+          <Point Prev="14" Phase="1" Step="14" X=".0323618" Y="-2.38761E-3"/>
+          <Point Prev="15" Phase="1" Step="15" X=".0354185" Y="-2.61227E-3"/>
+          <Point Prev="16" Phase="1" Step="16" X=".0370078" Y="-2.72469E-3"/>
+          <Point Prev="17" Phase="1" Step="17" X=".03998" Y="-2.94964E-3"/>
+          <Point Prev="18" Phase="1" Step="18" X=".041612" Y="-3.06239E-3"/>
+          <Point Prev="19" Phase="1" Step="19" X=".0446462" Y="-3.28798E-3"/>
+          <Point Prev="20" Phase="1" Step="20" X=".0478038" Y="-3.51371E-3"/>
+          <Point Prev="21" Phase="1" Step="21" X=".0509916" Y="-3.73958E-3"/>
+          <Point Prev="22" Phase="1" Step="22" X=".0526711" Y="-3.85263E-3"/>
+          <Point Prev="23" Phase="1" Step="23" X=".0558182" Y="-4.07875E-3"/>
+          <Point Prev="24" Phase="1" Step="24" X=".0591274" Y="-4.30492E-3"/>
+          <Point Prev="25" Phase="1" Step="25" X=".0625198" Y="-4.5311E-3"/>
+          <Point Prev="26" Phase="1" Step="26" X=".0693968" Y="-4.98351E-3"/>
+          <Point Prev="27" Phase="1" Step="27" X=".0837151" Y="-5.88836E-3"/>
+          <Point Prev="28" Phase="1" Step="28" X=".0987029" Y="-6.79328E-3"/>
+          <Point Prev="29" Phase="1" Step="29" X=".114389" Y="-7.69829E-3"/>
+          <Point Prev="30" Phase="1" Step="30" X=".130778" Y="-8.60336E-3"/>
+          <Point Prev="31" Phase="1" Step="31" X=".147867" Y="-9.50847E-3"/>
+          <Point Prev="32" Phase="1" Step="32" X=".165642" Y="-.0104136"/>
+          <Point Prev="33" Phase="1" Step="33" X=".184105" Y="-.0113188"/>
+          <Point Prev="34" Phase="1" Step="34" X=".20326" Y="-.012224"/>
+          <Point Prev="35" Phase="1" Step="35" X=".223105" Y="-.0131293"/>
+          <Point Prev="36" Phase="1" Step="36" X=".264936" Y="-.0149399"/>
+          <Point Prev="37" Phase="1" Step="37" X=".30948" Y="-.0167505"/>
+          <Point Prev="38" Phase="1" Step="38" X=".356906" Y="-.0185612"/>
+          <Point Prev="39" Phase="1" Step="39" X=".40731" Y="-.0203719"/>
+          <Point Prev="40" Phase="1" Step="40" X=".460787" Y="-.0221827"/>
+          <Point Prev="41" Phase="1" Step="41" X=".51744" Y="-.0239935"/>
+          <Point Prev="42" Phase="1" Step="42" X=".57739" Y="-.0258043"/>
+          <Point Prev="43" Phase="1" Step="43" X=".640754" Y="-.0276152"/>
+          <Point Prev="44" Phase="1" Step="44" X=".707682" Y="-.029426"/>
+          <Point Prev="45" Phase="1" Step="45" X=".778305" Y="-.0312369"/>
+          <Point Prev="46" Phase="1" Step="46" X=".852791" Y="-.0330478"/>
+          <Point Prev="47" Phase="1" Step="47" X=".931307" Y="-.0348587"/>
+          <Point Prev="48" Phase="1" Step="48" X="1" Y="-.0363624"/>
+        </DataPoints>
+        <PointX>
+          <ContourType>200</ContourType>
+          <ProjectDataType>16</ProjectDataType>
+          <StateParam/>
+        </PointX>
+        <PointY>
+          <NodeStressPointNode>
+            <NodeID>9772</NodeID>
+            <StructureType>1</StructureType>
+            <StructureNr>-1</StructureNr>
+          </NodeStressPointNode>
+          <ContourType>5</ContourType>
+          <ProjectDataType>0</ProjectDataType>
+          <StateParam/>
+        </PointY>
+        <PointZ>
+          <ContourType>0</ContourType>
+          <ProjectDataType>0</ProjectDataType>
+          <StateParam/>
+        </PointZ>
+        <Smoothing>false</Smoothing>
+        <SmoothingSize>0</SmoothingSize>
+        <DataOrigin>0</DataOrigin>
+        <DisplayOptions>
+          <Fitting>0</Fitting>
+          <LineStyle>0</LineStyle>
+          <LineColor>16711680</LineColor>
+          <LineWidth>1</LineWidth>
+          <Markers>true</Markers>
+          <MarkStartOfPhase>false</MarkStartOfPhase>
+          <MarkerStyle>1</MarkerStyle>
+          <MarkerWidth>5</MarkerWidth>
+          <MarkerColor>16711680</MarkerColor>
+          <Interval>1</Interval>
+        </DisplayOptions>
+      </Curve>
+    </Curves>
+    <Data/>
+  </Graph>
+</GraphList>

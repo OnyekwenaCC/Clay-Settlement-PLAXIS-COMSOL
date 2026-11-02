@@ -1,0 +1,344 @@
+ K02D
+ Now: 24-10-2026 17:38:25.234
+ IF64    20240200
+ CL : 
+ C:\Users\Chikezie\AppData\Local\Temp\Plaxis2DXTemp\2DXCalc17444\InitialPhase\ -
+ GSE -database C:\Users\Chikezie\AppData\Local\Temp\Plaxis2DXTemp\{478E7344-E90B
+ -4D5F-BF20-E027873E9D91}.db -parentPhaseId -1 -phaseId 0 -calculationSequenceId
+  0 -mainLicense 3162
+ Win: 1.6.2.9200
+ Mem: 1 16069 (2675) MB (free) physical memory
+ Process ID, MemMB : 32292 7
+ EXE: D:\Installed softwares\Plaxis\PLAXIS 2D 2025\kernel\
+ BLD: May 11 2026 10:09:07
+ CWD: D:\OneDrive\Desktop 672.7 (418.3) GB (free)
+ WRK: C:\Users\Chikezie\AppData\Local\Temp\Plaxis2DXTemp\2DXCalc17444\InitialPhase\ 256.5 (66.5) GB (free)
+ Project name:
+ C:\Users\Chikezie\AppData\Local\Temp\Plaxis2DXTemp\2DXCalc17444\InitialPhase\da
+ ta
+ Flow name   :
+ MultiStepping:            0
+ nArg for NDM:          11
+           1 [
+ C:\Users\Chikezie\AppData\Local\Temp\Plaxis2DXTemp\2DXCalc17444\InitialPhase\]
+           2 [-GSE]
+           3 [-database]
+           4 [
+ C:\Users\Chikezie\AppData\Local\Temp\Plaxis2DXTemp\{478E7344-E90B-4D5F-BF20-E02
+ 7873E9D91}.db]
+           5 [-parentPhaseId]
+           6 [-1]
+           7 [-phaseId]
+           8 [0]
+           9 [-calculationSequenceId]
+          10 [0]
+          11 [-mainLicense 3162]
+ NDM: Starting a transaction, database locked.
+ NDM: Ending a transaction.
+ IELTYP  :           15
+ NodTot  :        17055
+ nClust  :            1
+ nEl     :         2093
+ NintEl  :            0
+ iElTypI :           10
+ NIntfCh :            0
+ nSubEl  :           16
+ nint1   :           12
+ nodsid  :            5
+ nDiscEl :            0
+ NDM: Starting a transaction, database locked.
+ NDM: Ending a transaction.
+ NDEPAR  :            0
+ NFIRST  :            1
+ iSuction:            0
+ ParmG   :    1.00000000000000     
+ PPTCO   :   0.000000000000000E+000
+ nHand,iFlo:           1           0
+ iCalcType:           10
+ C:\Users\Chikezie\AppData\Local\Temp\Plaxis2DXTemp\2DXCalc17444\InitialPhase\da
+ ta.000  F
+ multiplier G:   1.00000000000000     
+ multiplier G:   1.00000000000000     
+ nProp,nSoilSet:         200           1
+ nUnits:           7
+ Unit L: m
+ Unit F: kN
+ Unit T: day
+ OneAtm:   100.000000000000       [F/L2]
+  MTypeL, ProLay
+          105
+   1  3.78682E+04
+   2  1.50000E-01
+   3  4.22618E-01
+   9  1.70000E+01
+  10  1.90000E+01
+  11  8.64000E-05
+  12  8.64000E-05
+  13  1.00000E+00
+  14  8.64000E-05
+  20  4.44444E-01
+  27  1.00000E+15
+  28  4.95000E-01
+  31  1.20000E+00
+  32  5.00230E+00
+  34  1.00000E+00
+  35  1.00000E+02
+  37  6.37381E-01
+  38  2.41111E-03
+  39  1.20611E-02
+  91  1.00000E+00
+  99  1.00000E+00
+ 101  6.37381E-01
+ 102  6.37381E-01
+ 103  1.00000E+00
+ 105  2.00000E+00
+ 106 -1.06000E+00
+ 107 -2.37000E+00
+ 110  1.00000E+04
+ 111  1.00000E+00
+ 112  1.92308E-02
+ 113  3.67000E+00
+ 114  1.10120E+00
+ 115 -1.97720E+00
+ 117  1.00000E+00
+ 118  3.00000E+00
+ 184  2.60000E+00
+ 191  4.60000E+01
+ 192  2.60000E+01
+ 193  2.80000E+01
+ read gwf parameters from database
+ copy Contour2Dx to Contour: nContour2Dx         775
+ ParmG   :    1.00000000000000     
+ find_POPs_from_BHs           0
+ find_POPs_from_BHs_int           0
+ Check_Coor_MinMax
+ xMinMax:  0.0000000E+00   3.000000      3.0000001E-06
+ ParmG:   1.00000000000000     
+ it,nsig0,nsig: 1 285 684 17055 439   0.01    0.00
+ it,nsig0,nsig: 2 684 885 17055 1015   0.03    0.00
+ it,nsig0,nsig: 3 885 1084 17055 1411   0.04    0.00
+ it,nsig0,nsig: 4 1084 1258 17055 1800   0.05    0.00
+ it,nsig0,nsig: 5 1258 1429 17055 2154   0.06    0.00
+ it,nsig0,nsig: 6 1429 1603 17055 2506   0.07    0.00
+ it,nsig0,nsig: 7 1603 1779 17055 2847   0.09    0.00
+ it,nsig0,nsig: 8 1779 1960 17055 3219   0.10    0.00
+ it,nsig0,nsig: 9 1960 2134 17055 3570   0.11    0.00
+ it,nsig0,nsig: 10 2134 2315 17055 3933   0.12    0.00
+ it,nsig0,nsig: 11 2315 2504 17055 4305   0.13    0.00
+ it,nsig0,nsig: 12 2504 2690 17055 4684   0.14    0.00
+ it,nsig0,nsig: 13 2690 2877 17055 5062   0.15    0.00
+ it,nsig0,nsig: 14 2877 3060 17055 5433   0.16    0.00
+ it,nsig0,nsig: 15 3060 3244 17055 5799   0.17    0.00
+ it,nsig0,nsig: 16 3244 3426 17055 6166   0.18    0.00
+ it,nsig0,nsig: 17 3426 3603 17055 6525   0.19    0.00
+ it,nsig0,nsig: 18 3603 3779 17055 6878   0.21    0.00
+ it,nsig0,nsig: 19 3779 3955 17055 7225   0.22    0.00
+ it,nsig0,nsig: 20 3955 4137 17055 7584   0.23    0.00
+ it,nsig0,nsig: 21 4137 4319 17055 7950   0.24    0.00
+ it,nsig0,nsig: 22 4319 4501 17055 8314   0.25    0.00
+ it,nsig0,nsig: 23 4501 4675 17055 8666   0.26    0.00
+ it,nsig0,nsig: 24 4675 4843 17055 9007   0.27    0.00
+ it,nsig0,nsig: 25 4843 5011 17055 9340   0.28    0.00
+ it,nsig0,nsig: 26 5011 5180 17055 9678   0.29    0.00
+ it,nsig0,nsig: 27 5180 5349 17055 10026   0.30    0.00
+ it,nsig0,nsig: 28 5349 5510 17055 10350   0.31    0.00
+ it,nsig0,nsig: 29 5510 5668 17055 10664   0.32    0.00
+ it,nsig0,nsig: 30 5668 5825 17055 10990   0.33    0.00
+ it,nsig0,nsig: 31 5825 5982 17055 11302   0.34    0.00
+ it,nsig0,nsig: 32 5982 6139 17055 11616   0.35    0.00
+ it,nsig0,nsig: 33 6139 6294 17055 11926   0.36    0.00
+ it,nsig0,nsig: 34 6294 6449 17055 12236   0.37    0.00
+ it,nsig0,nsig: 35 6449 6601 17055 12548   0.37    0.00
+ it,nsig0,nsig: 36 6601 6749 17055 12848   0.38    0.00
+ it,nsig0,nsig: 37 6749 6892 17055 13139   0.39    0.00
+ it,nsig0,nsig: 38 6892 7034 17055 13423   0.40    0.00
+ it,nsig0,nsig: 39 7034 7174 17055 13704   0.41    0.00
+ it,nsig0,nsig: 40 7174 7311 17055 13987   0.42    0.00
+ it,nsig0,nsig: 41 7311 7445 17055 14253   0.43    0.00
+ it,nsig0,nsig: 42 7445 7573 17055 14517   0.43    0.00
+ it,nsig0,nsig: 43 7573 7700 17055 14772   0.44    0.00
+ it,nsig0,nsig: 44 7700 7827 17055 15022   0.45    0.00
+ it,nsig0,nsig: 45 7827 7956 17055 15278   0.46    0.00
+ it,nsig0,nsig: 46 7956 8081 17055 15525   0.46    0.00
+ it,nsig0,nsig: 47 8081 8207 17055 15774   0.47    0.00
+ it,nsig0,nsig: 48 8207 8330 17055 16025   0.48    0.00
+ it,nsig0,nsig: 49 8330 8452 17055 16268   0.49    0.00
+ it,nsig0,nsig: 50 8452 8576 17055 16513   0.49    0.00
+ it,nsig0,nsig: 51 8576 8692 17055 16746   0.50    0.00
+ it,nsig0,nsig: 52 8692 8807 17055 16981   0.51    0.00
+ it,nsig0,nsig: 53 8807 8921 17055 17205   0.51    0.00
+ it,nsig0,nsig: 54 8921 9035 17055 17435   0.52    0.00
+ it,nsig0,nsig: 55 9035 9149 17055 17661   0.53    0.00
+ it,nsig0,nsig: 56 9149 9266 17055 17897   0.53    0.00
+ it,nsig0,nsig: 57 9266 9385 17055 18131   0.54    0.00
+ it,nsig0,nsig: 58 9385 9506 17055 18370   0.55    0.00
+ it,nsig0,nsig: 59 9506 9625 17055 18604   0.56    0.00
+ it,nsig0,nsig: 60 9625 9744 17055 18840   0.56    0.00
+ it,nsig0,nsig: 61 9744 9863 17055 19077   0.57    0.00
+ it,nsig0,nsig: 62 9863 9985 17055 19319   0.58    0.00
+ it,nsig0,nsig: 63 9985 10094 17055 19550   0.58    0.00
+ it,nsig0,nsig: 64 10094 10197 17055 19761   0.59    0.00
+ it,nsig0,nsig: 65 10197 10301 17055 19969   0.60    0.00
+ it,nsig0,nsig: 66 10301 10406 17055 20176   0.60    0.00
+ it,nsig0,nsig: 67 10406 10512 17055 20386   0.61    0.00
+ it,nsig0,nsig: 68 10512 10617 17055 20601   0.62    0.00
+ it,nsig0,nsig: 69 10617 10718 17055 20799   0.62    0.00
+ it,nsig0,nsig: 70 10718 10819 17055 21000   0.63    0.00
+ it,nsig0,nsig: 71 10819 10920 17055 21200   0.63    0.00
+ it,nsig0,nsig: 72 10920 11020 17055 21401   0.64    0.00
+ it,nsig0,nsig: 73 11020 11120 17055 21600   0.65    0.00
+ it,nsig0,nsig: 74 11120 11221 17055 21800   0.65    0.00
+ it,nsig0,nsig: 75 11221 11318 17055 21992   0.66    0.00
+ it,nsig0,nsig: 76 11318 11416 17055 22189   0.66    0.00
+ it,nsig0,nsig: 77 11416 11514 17055 22387   0.67    0.00
+ it,nsig0,nsig: 78 11514 11613 17055 22582   0.67    0.00
+ it,nsig0,nsig: 79 11613 11713 17055 22779   0.68    0.00
+ it,nsig0,nsig: 80 11713 11810 17055 22976   0.69    0.00
+ it,nsig0,nsig: 81 11810 11907 17055 23171   0.69    0.00
+ it,nsig0,nsig: 82 11907 12004 17055 23359   0.70    0.00
+ it,nsig0,nsig: 83 12004 12094 17055 23545   0.70    0.00
+ it,nsig0,nsig: 84 12094 12185 17055 23726   0.71    0.00
+ it,nsig0,nsig: 85 12185 12276 17055 23909   0.71    0.00
+ it,nsig0,nsig: 86 12276 12368 17055 24089   0.72    0.00
+ it,nsig0,nsig: 87 12368 12450 17055 24264   0.72    0.00
+ it,nsig0,nsig: 88 12450 12524 17055 24415   0.73    0.00
+ it,nsig0,nsig: 89 12524 12599 17055 24566   0.73    0.00
+ it,nsig0,nsig: 90 12599 12677 17055 24720   0.74    0.00
+ it,nsig0,nsig: 91 12677 12748 17055 24868   0.74    0.00
+ it,nsig0,nsig: 92 12748 12821 17055 25012   0.75    0.00
+ it,nsig0,nsig: 93 12821 12898 17055 25168   0.75    0.00
+ it,nsig0,nsig: 94 12898 12974 17055 25318   0.76    0.00
+ it,nsig0,nsig: 95 12974 13045 17055 25468   0.76    0.00
+ it,nsig0,nsig: 96 13045 13114 17055 25600   0.76    0.00
+ it,nsig0,nsig: 97 13114 13182 17055 25738   0.77    0.00
+ it,nsig0,nsig: 98 13182 13248 17055 25869   0.77    0.00
+ it,nsig0,nsig: 99 13248 13309 17055 25997   0.78    0.00
+ it,nsig0,nsig: 100 13309 13373 17055 26119   0.78    0.00
+ it,nsig0,nsig: 101 13373 13439 17055 26253   0.78    0.00
+ it,nsig0,nsig: 102 13439 13507 17055 26382   0.79    0.00
+ it,nsig0,nsig: 103 13507 13576 17055 26519   0.79    0.00
+ it,nsig0,nsig: 104 13576 13641 17055 26643   0.80    0.00
+ it,nsig0,nsig: 105 13641 13706 17055 26780   0.80    0.00
+ it,nsig0,nsig: 106 13706 13767 17055 26905   0.80    0.00
+ it,nsig0,nsig: 107 13767 13822 17055 27021   0.81    0.00
+ it,nsig0,nsig: 108 13822 13877 17055 27128   0.81    0.00
+ it,nsig0,nsig: 109 13877 13931 17055 27240   0.81    0.00
+ it,nsig0,nsig: 110 13931 13986 17055 27350   0.82    0.00
+ it,nsig0,nsig: 111 13986 14040 17055 27461   0.82    0.00
+ it,nsig0,nsig: 112 14040 14096 17055 27568   0.82    0.00
+ it,nsig0,nsig: 113 14096 14150 17055 27682   0.83    0.00
+ it,nsig0,nsig: 114 14150 14206 17055 27791   0.83    0.00
+ it,nsig0,nsig: 115 14206 14263 17055 27905   0.83    0.00
+ it,nsig0,nsig: 116 14263 14318 17055 28008   0.84    0.00
+ it,nsig0,nsig: 117 14318 14374 17055 28119   0.84    0.00
+ it,nsig0,nsig: 118 14374 14431 17055 28231   0.84    0.00
+ it,nsig0,nsig: 119 14431 14488 17055 28346   0.85    0.00
+ it,nsig0,nsig: 120 14488 14544 17055 28453   0.85    0.00
+ it,nsig0,nsig: 121 14544 14599 17055 28567   0.85    0.00
+ it,nsig0,nsig: 122 14599 14654 17055 28676   0.86    0.00
+ it,nsig0,nsig: 123 14654 14708 17055 28786   0.86    0.00
+ it,nsig0,nsig: 124 14708 14762 17055 28889   0.86    0.00
+ it,nsig0,nsig: 125 14762 14815 17055 28998   0.87    0.00
+ it,nsig0,nsig: 126 14815 14868 17055 29102   0.87    0.00
+ it,nsig0,nsig: 127 14868 14922 17055 29211   0.87    0.00
+ it,nsig0,nsig: 128 14922 14977 17055 29315   0.88    0.00
+ it,nsig0,nsig: 129 14977 15033 17055 29429   0.88    0.00
+ it,nsig0,nsig: 130 15033 15090 17055 29537   0.88    0.00
+ it,nsig0,nsig: 131 15090 15147 17055 29653   0.89    0.00
+ it,nsig0,nsig: 132 15147 15205 17055 29763   0.89    0.00
+ it,nsig0,nsig: 133 15205 15263 17055 29882   0.89    0.00
+ it,nsig0,nsig: 134 15263 15322 17055 29997   0.90    0.00
+ it,nsig0,nsig: 135 15322 15381 17055 30116   0.90    0.00
+ it,nsig0,nsig: 136 15381 15443 17055 30235   0.90    0.00
+ it,nsig0,nsig: 137 15443 15496 17055 30344   0.91    0.00
+ it,nsig0,nsig: 138 15496 15549 17055 30449   0.91    0.00
+ it,nsig0,nsig: 139 15549 15603 17055 30558   0.91    0.00
+ it,nsig0,nsig: 140 15603 15658 17055 30663   0.92    0.00
+ it,nsig0,nsig: 141 15658 15716 17055 30780   0.92    0.00
+ it,nsig0,nsig: 142 15716 15777 17055 30900   0.92    0.00
+ it,nsig0,nsig: 143 15777 15840 17055 31022   0.93    0.00
+ it,nsig0,nsig: 144 15840 15900 17055 31138   0.93    0.00
+ it,nsig0,nsig: 145 15900 15960 17055 31258   0.93    0.00
+ it,nsig0,nsig: 146 15960 16020 17055 31378   0.94    0.00
+ it,nsig0,nsig: 147 16020 16082 17055 31501   0.94    0.00
+ it,nsig0,nsig: 148 16082 16145 17055 31622   0.94    0.00
+ it,nsig0,nsig: 149 16145 16212 17055 31756   0.95    0.00
+ it,nsig0,nsig: 150 16212 16271 17055 31874   0.95    0.00
+ it,nsig0,nsig: 151 16271 16332 17055 31996   0.96    0.00
+ it,nsig0,nsig: 152 16332 16391 17055 32111   0.96    0.02
+ it,nsig0,nsig: 153 16391 16451 17055 32231   0.96    0.02
+ it,nsig0,nsig: 154 16451 16512 17055 32353   0.97    0.02
+ it,nsig0,nsig: 155 16512 16573 17055 32476   0.97    0.02
+ it,nsig0,nsig: 156 16573 16635 17055 32597   0.97    0.02
+ it,nsig0,nsig: 157 16635 16697 17055 32721   0.98    0.02
+ it,nsig0,nsig: 158 16697 16756 17055 32842   0.98    0.02
+ it,nsig0,nsig: 159 16756 16816 17055 32962   0.98    0.02
+ it,nsig0,nsig: 160 16816 16874 17055 33078   0.99    0.02
+ it,nsig0,nsig: 161 16874 16929 17055 33190   0.99    0.02
+ it,nsig0,nsig: 162 16929 16981 17055 33294   0.99    0.02
+ it,nsig0,nsig: 163 16981 17034 17055 33400   1.00    0.02
+ it,nsig0,nsig: 164 17034 17043 17055 33461   1.00    0.02
+ it,nsig0,nsig: 165 17043 17049 17055 33475   1.00    0.02
+ it,nsig0,nsig: 166 17049 17051 17055 33482   1.00    0.02
+ it,nsig0,nsig: 167 17051 17053 17055 33485   1.00    0.02
+ it,nsig0,nsig: 168 17053 17054 17055 33487   1.00    0.02
+ it,nsig0,nsig: 169 17054 17055 17055 33488   1.00    0.02
+ it,nsig0,nsig: 170 17055 17055 17055 33488   1.00    0.02
+ NDM: Starting a transaction, database locked.
+ NDM: Ending a transaction.
+ NDM: Starting a transaction, database locked.
+ write_SOILSTPR
+ write_INTSTPRR
+ write_PLASGPSI
+ write_MULTIPNR
+ write_CAMDPMDR
+ write_DUNCANHR
+ write_E__C___R
+ write_SIG1MAXR
+ write_PPTCOPCR
+ write_RELPERMR
+ write_RELPERIR
+ write_DSATURAR
+ write_SATEFFER
+ write_SATEFFIR
+ write_WPINIT_R
+ write_WPNDIN_R
+ write_WP_INTER
+ write_DARCYFLR
+ write_QINTNS_R
+ write_BOUNDWPI
+ write_BOUNDWPR
+ NDM: Ending a transaction.
+ AddCxx
+ nNod, nGP :            0           0
+ NinTmp:           0
+ NodTmp:           0
+ bkhead:$$S000000H##         232
+ BkHead : $$S000000H##         232
+ bkhead:$$S000001H##         232
+ BkHead : $$S000001H##         232
+ Time Reading (ms) :           52
+ Time Stress  (ms) :           15
+ Time Writing (ms) :           12
+ Time (ms) :          103  4.687500000000000E-002
+ Done
+ iRes:            1
+ WrtLog:  T
+ MyStop           0
+ Total cpu  :   6.250000009999999E-002
+ Total wall :   0.161000000000100     
+ 
+ +------+--------+-------------+--------+-------------+--------+----------+
+ | Task |  Count |       CPU   |    %   |  Wall clock |    %   | Name     |
+ +------+--------+-------------+--------+-------------+--------+----------+
+ |    0 |      1 |        0.06 | 100.00 |        0.16 | 100.00 | Total    |
+ +------+--------+-------------+--------+-------------+--------+----------+
+ |   41 |      1 |        0.00 |   0.00 |        0.00 |   1.86 | rd_msh   |
+ |   42 |      1 |        0.00 |   0.00 |        0.00 |   0.00 | rd_lxx   |
+ |   43 |      1 |        0.00 |   0.00 |        0.00 |   0.62 | rd_wxx   |
+ +------+--------+-------------+--------+-------------+--------+----------+
+ |  100 |      1 |        0.06 | 100.00 |        0.16 |  97.52 | Rest     |
+ +------+--------+-------------+--------+-------------+--------+----------+
+ OK
+P_MAX =                     0.00000E+00
+NP_MAX=                         1

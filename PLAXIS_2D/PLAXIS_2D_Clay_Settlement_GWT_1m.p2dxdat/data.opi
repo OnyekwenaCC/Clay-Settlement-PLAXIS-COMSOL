@@ -1,0 +1,44 @@
+﻿[Project]
+Description=Project 001 - Clay Consolidation Settlement
+Company=
+Version=98
+GravityDirection=2
+Comment=1D compression of a 3 m saturated normally consolidated clay layer under 25 kPa uniform surcharge. Comparison with hand calculations.
+AssociatedProjectID={00000000-0000-0000-0000-000000000000}
+DatabaseFileName={E19C832F-724B-4DF9-9E37-00C3908C9FDC}.db
+PreviewFile=
+UnitLength=m
+UnitForce=kN
+UnitTime=day
+UnitMass=t
+UnitTemperature=K
+UnitEnergy=kJ
+UnitPower=kW
+UnitSystemVersion=0
+
+[Phase0]
+ID=0
+PreviousPhase=-1
+Description=Initial phase [InitialPhase]
+PreviewFile=
+CalcType=7
+LoadInput=201
+PorePressureType=0
+CalcStatus=2
+StartStep=0
+EndStep=0
+LogInfo=
+
+[Phase1]
+ID=1
+PreviousPhase=0
+Description=Phase_1 [Phase_1]
+PreviewFile=
+CalcType=301
+LoadInput=201
+PorePressureType=0
+CalcStatus=2
+StartStep=1
+EndStep=48
+LogInfo=
+

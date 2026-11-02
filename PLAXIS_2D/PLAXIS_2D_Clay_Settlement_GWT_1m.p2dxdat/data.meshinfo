@@ -1,0 +1,61 @@
+ *****************************************
+ *                                       *
+ *    Original copyright (c) 1982-2008   *
+ *        Ingenieursbureau SEPRA         *
+ *       Copyright (c) 2008-2015         *
+ *             Plaxis bv                 *
+ *                                       *
+ *****************************************
+
+ 64-bit executable
+ Last compiled: May 11 2026 10:48:41
+ if64 20240200
+ Now: 24-10-2026 03:29:14.832
+ Size of buffer array:   500000000
+ CPU_Time:  0.625000000000000     
+ ﻿MESH2D
+   coarse ( unit =  1.697904802985138E-01 )
+ POINTS
+   P01 =  HardPoint (  0.000000000000000E+00 ,  0.000000000000000E+00 ,  2.500000000000000E-01 )
+   P02 =  HardPoint (  3.000000000000000E+00 ,  0.000000000000000E+00 ,  2.500000000000000E-01 )
+   P03 =  HardPoint (  0.000000000000000E+00 , -3.000000000000000E+00 ,  1.000000000000000E+00 )
+   P04 =  HardPoint (  3.000000000000000E+00 , -3.000000000000000E+00 ,  1.000000000000000E+00 )
+ CURVES
+   C01 =  CLine 3 ( P01, P02 )
+   C02 =  CLine 3 ( P03, P01 )
+   C03 =  CLine 3 ( P02, P04 )
+   C04 =  CLine 3 ( P04, P03 )
+ SURFACES
+   S01 = Triangle 5 ( C01,  C03,  C04,  C02 )
+ MAPPINGS
+  new input file is read            5
+ 
+ *** Information about geometry ***
+ Smallest distance between two points is:  1.000000000000000E+307
+ The points are:           0           0
+ Smallest distance between two curves is:  1.000000000000000E+307
+ The two curves are:           0           0
+ No local refinements on lines.
+ Smallest coarseness is  0.250000000000000     
+ in point           1
+ Coarseness not modified.
+ Coarseness points
+ Required, used:        1004           0
+ Too much space allocated for coarseness points
+ Required, used:        1004           0
+ Creating a new array
+  no interfaces 
+ CPU_Time:  0.640625000000000     
+ Elements merged in surface           1
+ Elements added in surface           1
+ Elements merged in surface           1
+  msho2d           1         223  ms        2093
+ number of nodal points   17055
+ number of elements    2093
+ CPU_Time:  0.875000000000000     
+ CPU_Time:  0.890625000000000     
+ CPU_Time:  0.968750000000000     
+ Now: 24-10-2026 03:29:15.191
+ 
+ Time in plaxmesh3dbody (sec):  0.384657382965088     
+ Total time for mesh generator (sec):   2.03554606437683     
